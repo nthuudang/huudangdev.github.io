@@ -1,16 +1,34 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: / Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Chào các bạn, tôi tên là Đăng - hiện là một Developer kiêm Blogger và vài thứ la ta linh tinh khác nữa.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+> ## Về Blog này
 
-What else do you need?
+Một ngày thức dậy vào buổi chiều nắng đầy mưa, nhìn thế gian lắm kẻ nghệ tài giấu trình ẩn độ, còn kẻ tiểu sĩ mịt mờ trôi lạc.
 
-### my history
+Thế nên, vốn sinh ra trong một gia đình nho giáo lâu đời có truyền thống cài win dạo, tôi quyết định dùng kiến thức ít ỏi của mình nhằm ghi chép lại và cũng đồng thời để sẻ chia, định hướng.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+> Thế là Blog này ra đời - 2019.
+
+Tôi viết blog này với mục đích nâng cao khả năng diễn dạt, trình bày vấn đề, cũng như chia sẻ kinh nghiệm và kiến thức cho mọi người. Mọi comment góp ý hay ném đá, miễn là ko mang tính xúc phạm, đều được hoan nghênh.
+
+![alt](https://i.imgur.com/WwXvYMa.jpg)
+
+> ## Về bản thân
+  
+
+* Tôi hiện đang là sinh viên K13 tại trường Đại học **Công nghệ thông tin - HCM**.
+
+* Thời gian vừa rồi tôi có quãng thời gian thực tập ngắn tại **GameloftSEA**.
+
+* Những kỹ năng cơ bản về OOP, Kỹ thuật lập trình, Thuật toán. Có kinh nghiệm với C++, Javascript, NodeJs.
+
+* Thích chạy bộ, du lịch cùng tà la thứ khác nữa !
+
+> ## Liên hệ
+
+Hoàn toàn có thể liên hệ với tôi bất cứ lúc nào , thông qua các *link* ở phần **Footer**
