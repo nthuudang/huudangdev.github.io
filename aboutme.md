@@ -6,7 +6,10 @@ subtitle: / Why you'd want to go on a date with me
 
 Chào các bạn, tôi tên là Đăng - hiện là một Developer kiêm Blogger và vài thứ la ta linh tinh khác nữa.
 
-> ## Về Blog 
+> "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life."
+
+-----------
+## Về Blog 
 
 Một ngày thức dậy vào buổi chiều nắng đầy mưa, nhìn thế gian lắm kẻ nghệ tài giấu trình ẩn độ, còn kẻ tiểu sĩ thì mịt mờ trôi lạc.
 
@@ -18,7 +21,9 @@ Mình viết blog này với mục đích nâng cao khả năng diễn dạt, tr
 
 ![alt](https://i.imgur.com/WwXvYMa.jpg)
 
-> ## Về bản thân
+-----------
+
+## Về bản thân
   
 
 * Tôi hiện đang là sinh viên K13 tại trường Đại học **Công nghệ thông tin - HCM**.
@@ -29,6 +34,10 @@ Mình viết blog này với mục đích nâng cao khả năng diễn dạt, tr
 
 * Thích chạy bộ, đọc sách, du lịch cùng tà la thứ khác nữa !
 
-> ## Liên hệ
+![alt](https://imgur.com/c5SZgL0.jpg)
+
+-----------
+
+## Liên hệ
 
 Hoàn toàn có thể liên hệ với tôi bất cứ lúc nào , thông qua các *link* ở phần **Footer**
