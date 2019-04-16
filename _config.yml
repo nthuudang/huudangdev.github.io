@@ -23,6 +23,8 @@ description: / Blog
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://huudangdev.github.io"
+  Search: "https://huudangdev.github.io/tags"
   About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
