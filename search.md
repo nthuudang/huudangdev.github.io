@@ -7,7 +7,7 @@ subtitle: Hãy để mình giúp bạn tìm kiếm dễ dàng hơn.
 <div id="search-box">
     <script>
   (function() {
-    var cx = '001522697352860188790:a8ovmtxh55k';
+    var cx = '001522697352860188790:gc9zmfyvawa';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
