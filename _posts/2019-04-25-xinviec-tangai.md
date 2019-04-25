@@ -11,8 +11,8 @@ categories: [Chuyện linh tinh, Tán gái, Chuyện code - chuyện đời, Xin
 
 ---
 
-Bài viết của tác giả Phạm Huy Hoàng- bài viết đăng trên [toidicodedao.com](https://toidicodedao.com/). Một bài viết vui về chuyện nghề nghiệp
-nhưng cũng đầy ý nghĩa và thực tế, các anh em nào đang FA hay thất nghiệp cũng đều nên đọc cho bổ nhé !
+Bài viết của tác giả Phạm Huy Hoàng- bài viết đăng trên [toidicodedao.com](https://toidicodedao.com/). Một bài viết vui về **chuyện nghề nghiệp**
+nhưng cũng đầy **ý nghĩa và thực tế**, các anh em nào đang **FA** hay thất nghiệp cũng đều nên đọc cho bổ nhé !
 
 ---
 
